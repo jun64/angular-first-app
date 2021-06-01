@@ -25,3 +25,34 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+nodejs 설치
+https://nodejs.org/ko/
+
+앵귤러cli 설치
+npm install -g @angular/cli
+
+새 앵귤러 프로젝트 생성
+ng new <project name> --no-strict
+
+개발 서버 기동
+ng serve
+
+localhost:4200
+
+IDE visual studio code or webstorm
+
+
+
+TypeScript
+
+
+ng g c <component name>
+
+
+*ngIf
+*ngFor
+[ngStyle]
+[ngClass]
